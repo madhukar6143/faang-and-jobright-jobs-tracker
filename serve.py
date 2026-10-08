@@ -23,7 +23,7 @@ from pathlib import Path
 from threading import Lock, Thread
 
 HERE = Path(__file__).parent      # D:\track  (root)
-H1B = HERE / "h1b"                # H-1B tracker code + data
+H1B = HERE / "faang"                # H-1B tracker code + data
 JR = HERE / "jobright"           # JobRight code + data
 FEED = H1B / "feed.json"          # the base H-1B feed
 ENRICHED = H1B / "enriched.json"
@@ -41,7 +41,7 @@ def extra_source_feeds():
     """Auto-discover any additional source. Convention: a source lives in its
     own folder D:\\track\\<name>\\ and writes <name>_feed.json in the shared feed
     schema (see report.py). Drop in a folder + fetcher and it merges here with
-    no edits. The base H-1B feed (h1b/feed.json) is loaded separately."""
+    no edits. The base H-1B feed (faang/feed.json) is loaded separately."""
     jobs = []
     for p in sorted(HERE.glob("*/*_feed.json")):
         try:

@@ -17,7 +17,7 @@ cd /d "%~dp0"
 
 echo.
 echo [1/5] Fetching H-1B company jobs (last 24h)...
-cd h1b
+cd faang
 python fetch_jobs.py
 if errorlevel 1 goto err
 
@@ -32,7 +32,7 @@ python fetch_jobright.py
 
 echo.
 echo [4/5] Building combined report...
-cd ..\h1b
+cd ..\faang
 python report.py
 
 echo.

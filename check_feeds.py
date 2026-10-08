@@ -14,7 +14,7 @@ from datetime import datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 FEEDS = [
-    ("H-1B",     os.path.join(HERE, "h1b", "feed.json")),
+    ("H-1B",     os.path.join(HERE, "faang", "feed.json")),
     ("JobRight", os.path.join(HERE, "jobright", "jobright_feed.json")),
 ]
 MAX_AGE_HOURS = 24
