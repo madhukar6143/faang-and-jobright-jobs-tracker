@@ -4,6 +4,10 @@ A personal job-hunting toolkit that pulls fresh software/CS postings from **H‑
 
 > Plain Python + a self‑contained HTML report. No framework, no database — everything is flat files in the project folder.
 
+![The report](docs/report.png)
+
+<sub>The self‑contained HTML report — search, filter, sort, hide companies, and tick jobs as applied. (Sample data shown.)</sub>
+
 ## What it does
 
 - **Pulls jobs straight from employers' own careers backends** — Greenhouse, Lever, Ashby, SmartRecruiters, Workday, plus Amazon / Apple / Microsoft. No LinkedIn / Indeed scraping.
