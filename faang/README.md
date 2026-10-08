@@ -1,4 +1,4 @@
-# H-1B Job Tracker
+# FAANG Job Tracker
 
 Everything lives flat in `D:\track`. All scripts resolve paths relative to their
 own location, so the folder can be moved anywhere.

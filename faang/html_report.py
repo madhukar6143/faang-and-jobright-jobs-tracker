@@ -13,7 +13,7 @@ PAGE = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>H-1B Sponsor Jobs &mdash; {generated}</title>
+<title>FAANG &amp; JobRight Job Tracker &mdash; {generated}</title>
 <style>
   :root {{
     --bg:#f6f7f9; --card:#fff; --fg:#16181d; --muted:#666e7a; --line:#e2e5ea;
@@ -154,13 +154,13 @@ PAGE = """<!doctype html>
 </head>
 <body>
 <div class="wrap">
-  <h1>H-1B Sponsor Jobs</h1>
+  <h1>FAANG &amp; JobRight Job Tracker</h1>
   <div class="sub">Generated {generated} &middot; pulled directly from employer career feeds
    &middot; {boards} employer boards &middot; <span id="sync" class="sync">checking tracker&hellip;</span></div>
 
   <div class="stats">
     <div class="stat"><b>{n_total}</b><span>total postings</span></div>
-    <div class="stat"><b>{n_h1b}</b><span>H-1B tracker</span></div>
+    <div class="stat"><b>{n_h1b}</b><span>FAANG feeds</span></div>
     <div class="stat"><b>{n_ext}</b><span>other sources</span></div>
     <div class="stat"><b>{n_entry}</b><span>entry level</span></div>
     <div class="stat"><b>{n_intern}</b><span>internships</span></div>
