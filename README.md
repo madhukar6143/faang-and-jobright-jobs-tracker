@@ -1,6 +1,6 @@
 # FAANG + JobRight Jobs Tracker
 
-A personal job-hunting toolkit that pulls fresh software/CS postings from **H‑1B‑sponsoring employers** (FAANG and ~240 others) and your **JobRight** recommendations into one filterable report — with an optional Tampermonkey auto‑apply bridge.
+A personal job-hunting toolkit that pulls fresh software/CS postings from Top Companies (FAANG and ~240 others) and your **JobRight** recommendations into one filterable report — with an optional Tampermonkey auto‑apply bridge.
 
 > Plain Python + a self‑contained HTML report. No framework, no database — everything is flat files in the project folder.
 
