@@ -1,0 +1,3654 @@
+[
+  {
+    "name": "10x Genomics",
+    "tier": "Active sponsor",
+    "industry": "Biotech",
+    "ats": "greenhouse",
+    "token": "10xgenomics",
+    "open_roles": 26
+  },
+  {
+    "name": "1Password",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "ashby",
+    "token": "1password",
+    "open_roles": 69
+  },
+  {
+    "name": "3M",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": "workday",
+    "tenant": "3m",
+    "wd": "wd1",
+    "site": "Search",
+    "open_roles": 652
+  },
+  {
+    "name": "AbbVie",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": "smartrecruiters",
+    "token": "abbvie",
+    "open_roles": 1660
+  },
+  {
+    "name": "Abnormal Security",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "greenhouse",
+    "token": "abnormalsecurity",
+    "open_roles": 74
+  },
+  {
+    "name": "Abridge",
+    "tier": "Active sponsor",
+    "industry": "Health AI",
+    "ats": "ashby",
+    "token": "abridge",
+    "open_roles": 43
+  },
+  {
+    "name": "Adobe",
+    "tier": "Large sponsor",
+    "industry": "Software",
+    "ats": "workday",
+    "tenant": "adobe",
+    "wd": "wd5",
+    "site": "external_experienced",
+    "open_roles": 809
+  },
+  {
+    "name": "Affirm",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "affirm",
+    "open_roles": 181
+  },
+  {
+    "name": "Airbnb",
+    "tier": "Active sponsor",
+    "industry": "Marketplace",
+    "ats": "greenhouse",
+    "token": "airbnb",
+    "open_roles": 186
+  },
+  {
+    "name": "Airbyte",
+    "tier": "Active sponsor",
+    "industry": "Data",
+    "ats": "ashby",
+    "token": "airbyte",
+    "open_roles": 10
+  },
+  {
+    "name": "Airtable",
+    "tier": "Active sponsor",
+    "industry": "Productivity",
+    "ats": "greenhouse",
+    "token": "airtable",
+    "open_roles": 40
+  },
+  {
+    "name": "Akuna Capital",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "akunacapital",
+    "open_roles": 34
+  },
+  {
+    "name": "Allstate",
+    "tier": "Large sponsor",
+    "industry": "Insurance",
+    "ats": "workday",
+    "tenant": "allstate",
+    "wd": "wd5",
+    "site": "Allstate_Careers",
+    "open_roles": 432
+  },
+  {
+    "name": "Amgen",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": "workday",
+    "tenant": "amgen",
+    "wd": "wd1",
+    "site": "Careers",
+    "open_roles": 1642
+  },
+  {
+    "name": "Amplitude",
+    "tier": "Active sponsor",
+    "industry": "Analytics",
+    "ats": "greenhouse",
+    "token": "amplitude",
+    "open_roles": 42
+  },
+  {
+    "name": "Analog Devices",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": "workday",
+    "tenant": "analogdevices",
+    "wd": "wd1",
+    "site": "External",
+    "open_roles": 974
+  },
+  {
+    "name": "Anduril Industries",
+    "tier": "Active sponsor",
+    "industry": "Defense Tech",
+    "ats": "greenhouse",
+    "token": "andurilindustries",
+    "open_roles": 2157
+  },
+  {
+    "name": "Anthropic",
+    "tier": "Active sponsor",
+    "industry": "AI",
+    "ats": "greenhouse",
+    "token": "anthropic",
+    "open_roles": 396
+  },
+  {
+    "name": "Applied Materials",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": "workday",
+    "tenant": "amat",
+    "wd": "wd1",
+    "site": "External",
+    "open_roles": 1847
+  },
+  {
+    "name": "AppLovin",
+    "tier": "Active sponsor",
+    "industry": "AdTech",
+    "ats": "greenhouse",
+    "token": "applovin",
+    "open_roles": 24
+  },
+  {
+    "name": "AQR Capital Management",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "aqr",
+    "open_roles": 48
+  },
+  {
+    "name": "Archer Aviation",
+    "tier": "Active sponsor",
+    "industry": "Aviation",
+    "ats": "greenhouse",
+    "token": "archer",
+    "open_roles": 1
+  },
+  {
+    "name": "Asana",
+    "tier": "Active sponsor",
+    "industry": "Productivity",
+    "ats": "greenhouse",
+    "token": "asana",
+    "open_roles": 143
+  },
+  {
+    "name": "Astera Labs",
+    "tier": "Active sponsor",
+    "industry": "Semiconductors",
+    "ats": "greenhouse",
+    "token": "asteralabs",
+    "open_roles": 172
+  },
+  {
+    "name": "Astronomer",
+    "tier": "Active sponsor",
+    "industry": "Data",
+    "ats": "ashby",
+    "token": "astronomer",
+    "open_roles": 28
+  },
+  {
+    "name": "Attentive",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": "greenhouse",
+    "token": "attentive",
+    "open_roles": 43
+  },
+  {
+    "name": "Baseten",
+    "tier": "Active sponsor",
+    "industry": "AI Infra",
+    "ats": "ashby",
+    "token": "baseten",
+    "open_roles": 62
+  },
+  {
+    "name": "Belvedere Trading",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "lever",
+    "token": "belvederetrading",
+    "open_roles": 10
+  },
+  {
+    "name": "Benchling",
+    "tier": "Active sponsor",
+    "industry": "Bio Tech",
+    "ats": "ashby",
+    "token": "benchling",
+    "open_roles": 50
+  },
+  {
+    "name": "Betterment",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "betterment",
+    "open_roles": 37
+  },
+  {
+    "name": "Bill.com",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "billcom",
+    "open_roles": 51
+  },
+  {
+    "name": "BlackRock",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": "workday",
+    "tenant": "blackrock",
+    "wd": "wd1",
+    "site": "BlackRock_Professional",
+    "open_roles": 257
+  },
+  {
+    "name": "Block",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "block",
+    "open_roles": 207
+  },
+  {
+    "name": "Boeing",
+    "tier": "Large sponsor",
+    "industry": "Aerospace",
+    "ats": "workday",
+    "tenant": "boeing",
+    "wd": "wd1",
+    "site": "EXTERNAL_CAREERS",
+    "open_roles": 680
+  },
+  {
+    "name": "Booz Allen Hamilton",
+    "tier": "Large sponsor",
+    "industry": "Consulting",
+    "ats": "workday",
+    "tenant": "bah",
+    "wd": "wd1",
+    "site": "BAH_Jobs",
+    "open_roles": 2000
+  },
+  {
+    "name": "Bosch",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": "smartrecruiters",
+    "token": "boschgroup",
+    "open_roles": 4728
+  },
+  {
+    "name": "Braze",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": "greenhouse",
+    "token": "braze",
+    "open_roles": 244
+  },
+  {
+    "name": "Brex",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "brex",
+    "open_roles": 302
+  },
+  {
+    "name": "Broadcom",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": "workday",
+    "tenant": "broadcom",
+    "wd": "wd1",
+    "site": "External_Career",
+    "open_roles": 358
+  },
+  {
+    "name": "CACI",
+    "tier": "Large sponsor",
+    "industry": "Defense IT",
+    "ats": "smartrecruiters",
+    "token": "caci",
+    "open_roles": 14
+  },
+  {
+    "name": "Cadence Design Systems",
+    "tier": "Large sponsor",
+    "industry": "EDA",
+    "ats": "workday",
+    "tenant": "cadence",
+    "wd": "wd1",
+    "site": "External_Careers",
+    "open_roles": 580
+  },
+  {
+    "name": "Calendly",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": "greenhouse",
+    "token": "calendly",
+    "open_roles": 13
+  },
+  {
+    "name": "Canva",
+    "tier": "Active sponsor",
+    "industry": "Design Tools",
+    "ats": "smartrecruiters",
+    "token": "canva",
+    "open_roles": 232
+  },
+  {
+    "name": "Capital One",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": "workday",
+    "tenant": "capitalone",
+    "wd": "wd12",
+    "site": "Capital_One",
+    "open_roles": 1749
+  },
+  {
+    "name": "Carta",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "carta",
+    "open_roles": 59
+  },
+  {
+    "name": "Cedar",
+    "tier": "Active sponsor",
+    "industry": "Healthtech",
+    "ats": "ashby",
+    "token": "cedar",
+    "open_roles": 3
+  },
+  {
+    "name": "Cerebras Systems",
+    "tier": "Active sponsor",
+    "industry": "AI Hardware",
+    "ats": "ashby",
+    "token": "cerebras",
+    "open_roles": 124
+  },
+  {
+    "name": "Chainguard",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "greenhouse",
+    "token": "chainguard",
+    "open_roles": 70
+  },
+  {
+    "name": "Chewy",
+    "tier": "Active sponsor",
+    "industry": "E-commerce",
+    "ats": "workday",
+    "tenant": "chewy",
+    "wd": "wd5",
+    "site": "External",
+    "open_roles": 252
+  },
+  {
+    "name": "Chicago Trading Company",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "chicagotrading",
+    "open_roles": 23
+  },
+  {
+    "name": "Chime",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "chime",
+    "open_roles": 66
+  },
+  {
+    "name": "Cigna",
+    "tier": "Large sponsor",
+    "industry": "Healthcare",
+    "ats": "workday",
+    "tenant": "cigna",
+    "wd": "wd5",
+    "site": "cignacareers",
+    "open_roles": 491
+  },
+  {
+    "name": "CircleCI",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "greenhouse",
+    "token": "circleci",
+    "open_roles": 7
+  },
+  {
+    "name": "ClickHouse",
+    "tier": "Active sponsor",
+    "industry": "Databases",
+    "ats": "greenhouse",
+    "token": "clickhouse",
+    "open_roles": 165
+  },
+  {
+    "name": "Cloudflare",
+    "tier": "Active sponsor",
+    "industry": "Infra / Security",
+    "ats": "greenhouse",
+    "token": "cloudflare",
+    "open_roles": 281
+  },
+  {
+    "name": "Cockroach Labs",
+    "tier": "Active sponsor",
+    "industry": "Databases",
+    "ats": "greenhouse",
+    "token": "cockroachlabs",
+    "open_roles": 26
+  },
+  {
+    "name": "Coinbase",
+    "tier": "Active sponsor",
+    "industry": "Crypto",
+    "ats": "greenhouse",
+    "token": "coinbase",
+    "open_roles": 160
+  },
+  {
+    "name": "Comcast",
+    "tier": "Large sponsor",
+    "industry": "Media / Telecom",
+    "ats": "workday",
+    "tenant": "comcast",
+    "wd": "wd5",
+    "site": "Comcast_Careers",
+    "open_roles": 747
+  },
+  {
+    "name": "Compass",
+    "tier": "Active sponsor",
+    "industry": "Real Estate Tech",
+    "ats": "greenhouse",
+    "token": "urbancompass",
+    "open_roles": 229
+  },
+  {
+    "name": "Confluent",
+    "tier": "Active sponsor",
+    "industry": "Data Streaming",
+    "ats": "ashby",
+    "token": "confluent",
+    "open_roles": 32
+  },
+  {
+    "name": "Coursera",
+    "tier": "Active sponsor",
+    "industry": "EdTech",
+    "ats": "greenhouse",
+    "token": "coursera",
+    "open_roles": 19
+  },
+  {
+    "name": "Cribl",
+    "tier": "Active sponsor",
+    "industry": "Data / Observability",
+    "ats": "greenhouse",
+    "token": "cribl",
+    "open_roles": 67
+  },
+  {
+    "name": "CrowdStrike",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "workday",
+    "tenant": "crowdstrike",
+    "wd": "wd5",
+    "site": "crowdstrikecareers",
+    "open_roles": 414
+  },
+  {
+    "name": "CVS Health",
+    "tier": "Large sponsor",
+    "industry": "Healthcare",
+    "ats": "workday",
+    "tenant": "cvshealth",
+    "wd": "wd1",
+    "site": "CVS_Health_Careers",
+    "open_roles": 18346
+  },
+  {
+    "name": "Databricks",
+    "tier": "Active sponsor",
+    "industry": "Data / AI",
+    "ats": "greenhouse",
+    "token": "databricks",
+    "open_roles": 808
+  },
+  {
+    "name": "Datadog",
+    "tier": "Active sponsor",
+    "industry": "Observability",
+    "ats": "greenhouse",
+    "token": "datadog",
+    "open_roles": 432
+  },
+  {
+    "name": "Discord",
+    "tier": "Active sponsor",
+    "industry": "Social",
+    "ats": "greenhouse",
+    "token": "discord",
+    "open_roles": 46
+  },
+  {
+    "name": "Docker",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "ashby",
+    "token": "docker",
+    "open_roles": 58
+  },
+  {
+    "name": "Drata",
+    "tier": "Active sponsor",
+    "industry": "Compliance",
+    "ats": "ashby",
+    "token": "drata",
+    "open_roles": 54
+  },
+  {
+    "name": "Dropbox",
+    "tier": "Active sponsor",
+    "industry": "Cloud Storage",
+    "ats": "greenhouse",
+    "token": "dropbox",
+    "open_roles": 35
+  },
+  {
+    "name": "Duolingo",
+    "tier": "Active sponsor",
+    "industry": "EdTech",
+    "ats": "greenhouse",
+    "token": "duolingo",
+    "open_roles": 64
+  },
+  {
+    "name": "eBay",
+    "tier": "Large sponsor",
+    "industry": "E-commerce",
+    "ats": "workday",
+    "tenant": "ebay",
+    "wd": "wd5",
+    "site": "apply",
+    "open_roles": 427
+  },
+  {
+    "name": "Elastic",
+    "tier": "Active sponsor",
+    "industry": "Search / Data",
+    "ats": "greenhouse",
+    "token": "elastic",
+    "open_roles": 230
+  },
+  {
+    "name": "Epic Games",
+    "tier": "Active sponsor",
+    "industry": "Gaming",
+    "ats": "greenhouse",
+    "token": "epicgames",
+    "open_roles": 152
+  },
+  {
+    "name": "Etsy",
+    "tier": "Active sponsor",
+    "industry": "E-commerce",
+    "ats": "workday",
+    "tenant": "etsy",
+    "wd": "wd5",
+    "site": "Etsy_Careers",
+    "open_roles": 34
+  },
+  {
+    "name": "Faire",
+    "tier": "Active sponsor",
+    "industry": "Marketplace",
+    "ats": "greenhouse",
+    "token": "faire",
+    "open_roles": 72
+  },
+  {
+    "name": "Fastly",
+    "tier": "Active sponsor",
+    "industry": "CDN",
+    "ats": "greenhouse",
+    "token": "fastly",
+    "open_roles": 53
+  },
+  {
+    "name": "Figma",
+    "tier": "Active sponsor",
+    "industry": "Design Tools",
+    "ats": "greenhouse",
+    "token": "figma",
+    "open_roles": 178
+  },
+  {
+    "name": "Figure AI",
+    "tier": "Active sponsor",
+    "industry": "Robotics",
+    "ats": "greenhouse",
+    "token": "figureai",
+    "open_roles": 118
+  },
+  {
+    "name": "Fireworks AI",
+    "tier": "Active sponsor",
+    "industry": "AI Infra",
+    "ats": "ashby",
+    "token": "fireworksai",
+    "open_roles": 46
+  },
+  {
+    "name": "Fivetran",
+    "tier": "Active sponsor",
+    "industry": "Data",
+    "ats": "greenhouse",
+    "token": "fivetran",
+    "open_roles": 197
+  },
+  {
+    "name": "Flexport",
+    "tier": "Active sponsor",
+    "industry": "Logistics",
+    "ats": "greenhouse",
+    "token": "flexport",
+    "open_roles": 152
+  },
+  {
+    "name": "Freshworks",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": "smartrecruiters",
+    "token": "freshworks",
+    "open_roles": 155
+  },
+  {
+    "name": "Gilead Sciences",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": "workday",
+    "tenant": "gilead",
+    "wd": "wd1",
+    "site": "gileadcareers",
+    "open_roles": 318
+  },
+  {
+    "name": "GitLab",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "greenhouse",
+    "token": "gitlab",
+    "open_roles": 188
+  },
+  {
+    "name": "Glean",
+    "tier": "Active sponsor",
+    "industry": "AI / Search",
+    "ats": "smartrecruiters",
+    "token": "glean",
+    "open_roles": 1
+  },
+  {
+    "name": "GlobalFoundries",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": "workday",
+    "tenant": "globalfoundries",
+    "wd": "wd1",
+    "site": "External",
+    "open_roles": 589
+  },
+  {
+    "name": "Gopuff",
+    "tier": "Active sponsor",
+    "industry": "Delivery",
+    "ats": "lever",
+    "token": "gopuff",
+    "open_roles": 806
+  },
+  {
+    "name": "Grafana Labs",
+    "tier": "Active sponsor",
+    "industry": "Observability",
+    "ats": "greenhouse",
+    "token": "grafanalabs",
+    "open_roles": 141
+  },
+  {
+    "name": "Gusto",
+    "tier": "Active sponsor",
+    "industry": "HR Tech",
+    "ats": "greenhouse",
+    "token": "gusto",
+    "open_roles": 88
+  },
+  {
+    "name": "HackerOne",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "ashby",
+    "token": "hackerone",
+    "open_roles": 24
+  },
+  {
+    "name": "Harvey",
+    "tier": "Active sponsor",
+    "industry": "Legal AI",
+    "ats": "ashby",
+    "token": "harvey",
+    "open_roles": 363
+  },
+  {
+    "name": "Hex Technologies",
+    "tier": "Active sponsor",
+    "industry": "Analytics",
+    "ats": "greenhouse",
+    "token": "hextechnologies",
+    "open_roles": 28
+  },
+  {
+    "name": "Hinge Health",
+    "tier": "Active sponsor",
+    "industry": "Healthtech",
+    "ats": "ashby",
+    "token": "hinge-health",
+    "open_roles": 81
+  },
+  {
+    "name": "Honeycomb",
+    "tier": "Active sponsor",
+    "industry": "Observability",
+    "ats": "greenhouse",
+    "token": "honeycomb",
+    "open_roles": 18
+  },
+  {
+    "name": "Hopper",
+    "tier": "Active sponsor",
+    "industry": "Travel Tech",
+    "ats": "ashby",
+    "token": "hopper",
+    "open_roles": 45
+  },
+  {
+    "name": "HP",
+    "tier": "Large sponsor",
+    "industry": "Hardware",
+    "ats": "workday",
+    "tenant": "hp",
+    "wd": "wd5",
+    "site": "ExternalCareerSite",
+    "open_roles": 706
+  },
+  {
+    "name": "IMC Trading",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "imc",
+    "open_roles": 158
+  },
+  {
+    "name": "Included Health",
+    "tier": "Active sponsor",
+    "industry": "Healthtech",
+    "ats": "lever",
+    "token": "includedhealth",
+    "open_roles": 142
+  },
+  {
+    "name": "insitro",
+    "tier": "Active sponsor",
+    "industry": "Biotech",
+    "ats": "ashby",
+    "token": "insitro",
+    "open_roles": 14
+  },
+  {
+    "name": "Instacart",
+    "tier": "Active sponsor",
+    "industry": "Marketplace",
+    "ats": "greenhouse",
+    "token": "instacart",
+    "open_roles": 117
+  },
+  {
+    "name": "Jane Street",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "janestreet",
+    "open_roles": 225
+  },
+  {
+    "name": "Jump Trading",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "jumptrading",
+    "open_roles": 105
+  },
+  {
+    "name": "KLA",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": "workday",
+    "tenant": "kla",
+    "wd": "wd1",
+    "site": "Search",
+    "open_roles": 1007
+  },
+  {
+    "name": "Klaviyo",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": "greenhouse",
+    "token": "klaviyo",
+    "open_roles": 147
+  },
+  {
+    "name": "Komodo Health",
+    "tier": "Active sponsor",
+    "industry": "Health Data",
+    "ats": "greenhouse",
+    "token": "komodohealth",
+    "open_roles": 32
+  },
+  {
+    "name": "Lambda",
+    "tier": "Active sponsor",
+    "industry": "AI Cloud",
+    "ats": "ashby",
+    "token": "lambda",
+    "open_roles": 62
+  },
+  {
+    "name": "LangChain",
+    "tier": "Active sponsor",
+    "industry": "AI Tooling",
+    "ats": "ashby",
+    "token": "langchain",
+    "open_roles": 96
+  },
+  {
+    "name": "LaunchDarkly",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "greenhouse",
+    "token": "launchdarkly",
+    "open_roles": 34
+  },
+  {
+    "name": "Leidos",
+    "tier": "Large sponsor",
+    "industry": "Defense IT",
+    "ats": "workday",
+    "tenant": "leidos",
+    "wd": "wd5",
+    "site": "External",
+    "open_roles": 1936
+  },
+  {
+    "name": "Life360",
+    "tier": "Active sponsor",
+    "industry": "Consumer Tech",
+    "ats": "greenhouse",
+    "token": "life360",
+    "open_roles": 31
+  },
+  {
+    "name": "Linear",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "ashby",
+    "token": "linear",
+    "open_roles": 24
+  },
+  {
+    "name": "LinkedIn",
+    "tier": "Large sponsor",
+    "industry": "Big Tech",
+    "ats": "greenhouse",
+    "token": "linkedin",
+    "open_roles": 53
+  },
+  {
+    "name": "Lucid Motors",
+    "tier": "Active sponsor",
+    "industry": "Automotive",
+    "ats": "greenhouse",
+    "token": "lucidmotors",
+    "open_roles": 310
+  },
+  {
+    "name": "Lyft",
+    "tier": "Large sponsor",
+    "industry": "Marketplace",
+    "ats": "greenhouse",
+    "token": "lyft",
+    "open_roles": 161
+  },
+  {
+    "name": "Marqeta",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "marqeta",
+    "open_roles": 41
+  },
+  {
+    "name": "Marvell Technology",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": "workday",
+    "tenant": "marvell",
+    "wd": "wd1",
+    "site": "MarvellCareers",
+    "open_roles": 527
+  },
+  {
+    "name": "Mastercard",
+    "tier": "Large sponsor",
+    "industry": "Fintech",
+    "ats": "workday",
+    "tenant": "mastercard",
+    "wd": "wd1",
+    "site": "CorporateCareers",
+    "open_roles": 1082
+  },
+  {
+    "name": "Materialize",
+    "tier": "Active sponsor",
+    "industry": "Data",
+    "ats": "ashby",
+    "token": "materialize",
+    "open_roles": 5
+  },
+  {
+    "name": "McKesson",
+    "tier": "Large sponsor",
+    "industry": "Healthcare",
+    "ats": "workday",
+    "tenant": "mckesson",
+    "wd": "wd3",
+    "site": "External_Careers",
+    "open_roles": 446
+  },
+  {
+    "name": "Merck",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": "workday",
+    "tenant": "msd",
+    "wd": "wd5",
+    "site": "SearchJobs",
+    "open_roles": 833
+  },
+  {
+    "name": "Mercury",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "mercury",
+    "open_roles": 55
+  },
+  {
+    "name": "Micron Technology",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": "workday",
+    "tenant": "micron",
+    "wd": "wd1",
+    "site": "External",
+    "open_roles": 2715
+  },
+  {
+    "name": "Miro",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": "ashby",
+    "token": "miro",
+    "open_roles": 45
+  },
+  {
+    "name": "Modal Labs",
+    "tier": "Active sponsor",
+    "industry": "AI Infra",
+    "ats": "ashby",
+    "token": "modal",
+    "open_roles": 31
+  },
+  {
+    "name": "Modern Treasury",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "ashby",
+    "token": "moderntreasury",
+    "open_roles": 7
+  },
+  {
+    "name": "MongoDB",
+    "tier": "Active sponsor",
+    "industry": "Databases",
+    "ats": "greenhouse",
+    "token": "mongodb",
+    "open_roles": 399
+  },
+  {
+    "name": "Morgan Stanley",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": "workday",
+    "tenant": "ms",
+    "wd": "wd5",
+    "site": "External",
+    "open_roles": 1379
+  },
+  {
+    "name": "Motional",
+    "tier": "Active sponsor",
+    "industry": "Autonomous Vehicles",
+    "ats": "greenhouse",
+    "token": "motional",
+    "open_roles": 77
+  },
+  {
+    "name": "Natera",
+    "tier": "Active sponsor",
+    "industry": "Biotech",
+    "ats": "greenhouse",
+    "token": "natera",
+    "open_roles": 224
+  },
+  {
+    "name": "Navan",
+    "tier": "Active sponsor",
+    "industry": "Travel Tech",
+    "ats": "greenhouse",
+    "token": "tripactions",
+    "open_roles": 203
+  },
+  {
+    "name": "Neon",
+    "tier": "Active sponsor",
+    "industry": "Databases",
+    "ats": "lever",
+    "token": "neon",
+    "open_roles": 14
+  },
+  {
+    "name": "Netlify",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "greenhouse",
+    "token": "netlify",
+    "open_roles": 4
+  },
+  {
+    "name": "Netskope",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "greenhouse",
+    "token": "netskope",
+    "open_roles": 139
+  },
+  {
+    "name": "Northrop Grumman",
+    "tier": "Large sponsor",
+    "industry": "Aerospace",
+    "ats": "workday",
+    "tenant": "ngc",
+    "wd": "wd1",
+    "site": "Northrop_Grumman_External_Site",
+    "open_roles": 3663
+  },
+  {
+    "name": "Northwestern Mutual",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": "smartrecruiters",
+    "token": "northwesternmutual",
+    "open_roles": 69
+  },
+  {
+    "name": "Notion",
+    "tier": "Active sponsor",
+    "industry": "Productivity",
+    "ats": "ashby",
+    "token": "notion",
+    "open_roles": 110
+  },
+  {
+    "name": "Nuro",
+    "tier": "Active sponsor",
+    "industry": "Autonomous Vehicles",
+    "ats": "greenhouse",
+    "token": "nuro",
+    "open_roles": 100
+  },
+  {
+    "name": "NVIDIA",
+    "tier": "Top 25 sponsor",
+    "industry": "Semiconductors / AI",
+    "ats": "workday",
+    "tenant": "nvidia",
+    "wd": "wd5",
+    "site": "NVIDIAExternalCareerSite",
+    "open_roles": 2000
+  },
+  {
+    "name": "NXP Semiconductors",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": "workday",
+    "tenant": "nxp",
+    "wd": "wd3",
+    "site": "careers",
+    "open_roles": 804
+  },
+  {
+    "name": "Okta",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "greenhouse",
+    "token": "okta",
+    "open_roles": 352
+  },
+  {
+    "name": "Old Mission Capital",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "oldmissioncapital",
+    "open_roles": 34
+  },
+  {
+    "name": "OpenAI",
+    "tier": "Active sponsor",
+    "industry": "AI",
+    "ats": "ashby",
+    "token": "openai",
+    "open_roles": 736
+  },
+  {
+    "name": "Orca Security",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "greenhouse",
+    "token": "orcasecurity",
+    "open_roles": 8
+  },
+  {
+    "name": "PagerDuty",
+    "tier": "Active sponsor",
+    "industry": "Ops",
+    "ats": "greenhouse",
+    "token": "pagerduty",
+    "open_roles": 20
+  },
+  {
+    "name": "Palantir Technologies",
+    "tier": "Active sponsor",
+    "industry": "Data / Defense",
+    "ats": "lever",
+    "token": "palantir",
+    "open_roles": 302
+  },
+  {
+    "name": "PayPal",
+    "tier": "Large sponsor",
+    "industry": "Fintech",
+    "ats": "workday",
+    "tenant": "paypal",
+    "wd": "wd1",
+    "site": "jobs",
+    "open_roles": 104
+  },
+  {
+    "name": "Peloton",
+    "tier": "Active sponsor",
+    "industry": "Consumer Tech",
+    "ats": "greenhouse",
+    "token": "peloton",
+    "open_roles": 58
+  },
+  {
+    "name": "Perplexity AI",
+    "tier": "Active sponsor",
+    "industry": "AI",
+    "ats": "ashby",
+    "token": "perplexity",
+    "open_roles": 86
+  },
+  {
+    "name": "Pfizer",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": "workday",
+    "tenant": "pfizer",
+    "wd": "wd1",
+    "site": "PfizerCareers",
+    "open_roles": 520
+  },
+  {
+    "name": "Pinecone",
+    "tier": "Active sponsor",
+    "industry": "Vector DB",
+    "ats": "ashby",
+    "token": "pinecone",
+    "open_roles": 6
+  },
+  {
+    "name": "Pinterest",
+    "tier": "Active sponsor",
+    "industry": "Social",
+    "ats": "greenhouse",
+    "token": "pinterest",
+    "open_roles": 217
+  },
+  {
+    "name": "Plaid",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "ashby",
+    "token": "plaid",
+    "open_roles": 112
+  },
+  {
+    "name": "Planet Labs",
+    "tier": "Active sponsor",
+    "industry": "Space Data",
+    "ats": "greenhouse",
+    "token": "planetlabs",
+    "open_roles": 85
+  },
+  {
+    "name": "PNC Financial Services",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": "workday",
+    "tenant": "pnc",
+    "wd": "wd5",
+    "site": "External",
+    "open_roles": 2000
+  },
+  {
+    "name": "Point72",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "point72",
+    "open_roles": 231
+  },
+  {
+    "name": "Postman",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "greenhouse",
+    "token": "postman",
+    "open_roles": 109
+  },
+  {
+    "name": "Qualtrics",
+    "tier": "Large sponsor",
+    "industry": "SaaS",
+    "ats": "greenhouse",
+    "token": "qualtrics",
+    "open_roles": 53
+  },
+  {
+    "name": "Railway",
+    "tier": "Active sponsor",
+    "industry": "Cloud",
+    "ats": "ashby",
+    "token": "railway",
+    "open_roles": 8
+  },
+  {
+    "name": "Ramp",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "ashby",
+    "token": "ramp",
+    "open_roles": 125
+  },
+  {
+    "name": "Recursion",
+    "tier": "Active sponsor",
+    "industry": "Biotech",
+    "ats": "greenhouse",
+    "token": "recursionpharmaceuticals",
+    "open_roles": 18
+  },
+  {
+    "name": "Reddit",
+    "tier": "Active sponsor",
+    "industry": "Social",
+    "ats": "greenhouse",
+    "token": "reddit",
+    "open_roles": 188
+  },
+  {
+    "name": "Redis",
+    "tier": "Active sponsor",
+    "industry": "Databases",
+    "ats": "ashby",
+    "token": "redis",
+    "open_roles": 27
+  },
+  {
+    "name": "Regeneron",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": "workday",
+    "tenant": "regeneron",
+    "wd": "wd1",
+    "site": "Careers",
+    "open_roles": 594
+  },
+  {
+    "name": "Render",
+    "tier": "Active sponsor",
+    "industry": "Cloud",
+    "ats": "ashby",
+    "token": "render",
+    "open_roles": 34
+  },
+  {
+    "name": "Riot Games",
+    "tier": "Active sponsor",
+    "industry": "Gaming",
+    "ats": "greenhouse",
+    "token": "riotgames",
+    "open_roles": 163
+  },
+  {
+    "name": "Robinhood",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "robinhood",
+    "open_roles": 130
+  },
+  {
+    "name": "Roblox",
+    "tier": "Active sponsor",
+    "industry": "Gaming",
+    "ats": "greenhouse",
+    "token": "roblox",
+    "open_roles": 221
+  },
+  {
+    "name": "Rocket Lab",
+    "tier": "Active sponsor",
+    "industry": "Aerospace",
+    "ats": "greenhouse",
+    "token": "rocketlab",
+    "open_roles": 388
+  },
+  {
+    "name": "Roku",
+    "tier": "Active sponsor",
+    "industry": "Media",
+    "ats": "greenhouse",
+    "token": "roku",
+    "open_roles": 244
+  },
+  {
+    "name": "Rubrik",
+    "tier": "Active sponsor",
+    "industry": "Data Security",
+    "ats": "greenhouse",
+    "token": "rubrik",
+    "open_roles": 104
+  },
+  {
+    "name": "S&P Global",
+    "tier": "Large sponsor",
+    "industry": "Finance / Data",
+    "ats": "workday",
+    "tenant": "spgi",
+    "wd": "wd5",
+    "site": "SPGI_Careers",
+    "open_roles": 281
+  },
+  {
+    "name": "Salesforce",
+    "tier": "Large sponsor",
+    "industry": "SaaS",
+    "ats": "workday",
+    "tenant": "salesforce",
+    "wd": "wd12",
+    "site": "External_Career_Site",
+    "open_roles": 1488
+  },
+  {
+    "name": "SambaNova Systems",
+    "tier": "Active sponsor",
+    "industry": "AI Hardware",
+    "ats": "greenhouse",
+    "token": "sambanovasystems",
+    "open_roles": 30
+  },
+  {
+    "name": "Samsara",
+    "tier": "Active sponsor",
+    "industry": "IoT",
+    "ats": "greenhouse",
+    "token": "samsara",
+    "open_roles": 311
+  },
+  {
+    "name": "Saronic",
+    "tier": "Active sponsor",
+    "industry": "Defense Tech",
+    "ats": "ashby",
+    "token": "saronic",
+    "open_roles": 257
+  },
+  {
+    "name": "Scale AI",
+    "tier": "Active sponsor",
+    "industry": "AI",
+    "ats": "greenhouse",
+    "token": "scaleai",
+    "open_roles": 215
+  },
+  {
+    "name": "Schonfeld",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "schonfeld",
+    "open_roles": 53
+  },
+  {
+    "name": "Scopely",
+    "tier": "Active sponsor",
+    "industry": "Gaming",
+    "ats": "greenhouse",
+    "token": "scopely",
+    "open_roles": 136
+  },
+  {
+    "name": "Semgrep",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "ashby",
+    "token": "semgrep",
+    "open_roles": 18
+  },
+  {
+    "name": "Sentry",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "ashby",
+    "token": "sentry",
+    "open_roles": 48
+  },
+  {
+    "name": "ServiceNow",
+    "tier": "Large sponsor",
+    "industry": "SaaS",
+    "ats": "smartrecruiters",
+    "token": "servicenow",
+    "open_roles": 445
+  },
+  {
+    "name": "Shield AI",
+    "tier": "Active sponsor",
+    "industry": "Defense Tech",
+    "ats": "lever",
+    "token": "shieldai",
+    "open_roles": 429
+  },
+  {
+    "name": "Sierra",
+    "tier": "Active sponsor",
+    "industry": "AI",
+    "ats": "ashby",
+    "token": "sierra",
+    "open_roles": 174
+  },
+  {
+    "name": "Sigma Computing",
+    "tier": "Active sponsor",
+    "industry": "Analytics",
+    "ats": "greenhouse",
+    "token": "sigmacomputing",
+    "open_roles": 72
+  },
+  {
+    "name": "SingleStore",
+    "tier": "Active sponsor",
+    "industry": "Databases",
+    "ats": "greenhouse",
+    "token": "singlestore",
+    "open_roles": 36
+  },
+  {
+    "name": "Skydio",
+    "tier": "Active sponsor",
+    "industry": "Drones",
+    "ats": "ashby",
+    "token": "skydio",
+    "open_roles": 113
+  },
+  {
+    "name": "Smartsheet",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": "greenhouse",
+    "token": "smartsheet",
+    "open_roles": 94
+  },
+  {
+    "name": "Snowflake",
+    "tier": "Active sponsor",
+    "industry": "Data Cloud",
+    "ats": "ashby",
+    "token": "snowflake",
+    "open_roles": 399
+  },
+  {
+    "name": "SoFi",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "sofi",
+    "open_roles": 70
+  },
+  {
+    "name": "Sony",
+    "tier": "Active sponsor",
+    "industry": "Media / Electronics",
+    "ats": "workday",
+    "tenant": "sonyglobal",
+    "wd": "wd1",
+    "site": "SonyGlobalCareers",
+    "open_roles": 91
+  },
+  {
+    "name": "SpaceX",
+    "tier": "Active sponsor",
+    "industry": "Aerospace",
+    "ats": "greenhouse",
+    "token": "spacex",
+    "open_roles": 2095
+  },
+  {
+    "name": "Spotify",
+    "tier": "Active sponsor",
+    "industry": "Media",
+    "ats": "lever",
+    "token": "spotify",
+    "open_roles": 102
+  },
+  {
+    "name": "Squarepoint Capital",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "squarepointcapital",
+    "open_roles": 89
+  },
+  {
+    "name": "StockX",
+    "tier": "Active sponsor",
+    "industry": "Marketplace",
+    "ats": "greenhouse",
+    "token": "stockx",
+    "open_roles": 34
+  },
+  {
+    "name": "Strava",
+    "tier": "Active sponsor",
+    "industry": "Consumer Tech",
+    "ats": "ashby",
+    "token": "strava",
+    "open_roles": 27
+  },
+  {
+    "name": "Stripe",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "stripe",
+    "open_roles": 545
+  },
+  {
+    "name": "Supabase",
+    "tier": "Active sponsor",
+    "industry": "Databases",
+    "ats": "ashby",
+    "token": "supabase",
+    "open_roles": 56
+  },
+  {
+    "name": "Sweetgreen",
+    "tier": "Active sponsor",
+    "industry": "Food Tech",
+    "ats": "greenhouse",
+    "token": "sweetgreen",
+    "open_roles": 52
+  },
+  {
+    "name": "T-Mobile",
+    "tier": "Large sponsor",
+    "industry": "Telecom",
+    "ats": "workday",
+    "tenant": "tmobile",
+    "wd": "wd1",
+    "site": "External",
+    "open_roles": 2000
+  },
+  {
+    "name": "Tailscale",
+    "tier": "Active sponsor",
+    "industry": "Networking",
+    "ats": "greenhouse",
+    "token": "tailscale",
+    "open_roles": 55
+  },
+  {
+    "name": "Target",
+    "tier": "Large sponsor",
+    "industry": "Retail / Tech",
+    "ats": "workday",
+    "tenant": "target",
+    "wd": "wd5",
+    "site": "targetcareers",
+    "open_roles": 2000
+  },
+  {
+    "name": "Tata Consultancy Services",
+    "tier": "Top 25 sponsor",
+    "industry": "IT Services",
+    "ats": "greenhouse",
+    "token": "tcs",
+    "open_roles": 91
+  },
+  {
+    "name": "Temporal Technologies",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "greenhouse",
+    "token": "temporaltechnologies",
+    "open_roles": 57
+  },
+  {
+    "name": "Tenstorrent",
+    "tier": "Active sponsor",
+    "industry": "AI Hardware",
+    "ats": "greenhouse",
+    "token": "tenstorrent",
+    "open_roles": 123
+  },
+  {
+    "name": "The Trade Desk",
+    "tier": "Active sponsor",
+    "industry": "AdTech",
+    "ats": "greenhouse",
+    "token": "thetradedesk",
+    "open_roles": 199
+  },
+  {
+    "name": "Thoughtworks",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": "greenhouse",
+    "token": "thoughtworks",
+    "open_roles": 62
+  },
+  {
+    "name": "Toast",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "greenhouse",
+    "token": "toast",
+    "open_roles": 293
+  },
+  {
+    "name": "Together AI",
+    "tier": "Active sponsor",
+    "industry": "AI Infra",
+    "ats": "greenhouse",
+    "token": "togetherai",
+    "open_roles": 56
+  },
+  {
+    "name": "Tower Research Capital",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "towerresearchcapital",
+    "open_roles": 74
+  },
+  {
+    "name": "Travelers",
+    "tier": "Large sponsor",
+    "industry": "Insurance",
+    "ats": "workday",
+    "tenant": "travelers",
+    "wd": "wd5",
+    "site": "External",
+    "open_roles": 334
+  },
+  {
+    "name": "TripAdvisor",
+    "tier": "Active sponsor",
+    "industry": "Travel Tech",
+    "ats": "greenhouse",
+    "token": "tripadvisor",
+    "open_roles": 95
+  },
+  {
+    "name": "Truist",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": "workday",
+    "tenant": "truist",
+    "wd": "wd1",
+    "site": "Careers",
+    "open_roles": 1033
+  },
+  {
+    "name": "Twilio",
+    "tier": "Active sponsor",
+    "industry": "Communications",
+    "ats": "greenhouse",
+    "token": "twilio",
+    "open_roles": 179
+  },
+  {
+    "name": "Twitch",
+    "tier": "Active sponsor",
+    "industry": "Media",
+    "ats": "greenhouse",
+    "token": "twitch",
+    "open_roles": 62
+  },
+  {
+    "name": "Uber",
+    "tier": "Large sponsor",
+    "industry": "Marketplace",
+    "ats": "smartrecruiters",
+    "token": "uber",
+    "open_roles": 1
+  },
+  {
+    "name": "Udemy",
+    "tier": "Active sponsor",
+    "industry": "EdTech",
+    "ats": "greenhouse",
+    "token": "udemy",
+    "open_roles": 12
+  },
+  {
+    "name": "Vanta",
+    "tier": "Active sponsor",
+    "industry": "Compliance",
+    "ats": "ashby",
+    "token": "vanta",
+    "open_roles": 100
+  },
+  {
+    "name": "Vercel",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": "greenhouse",
+    "token": "vercel",
+    "open_roles": 81
+  },
+  {
+    "name": "Verkada",
+    "tier": "Active sponsor",
+    "industry": "IoT / Security",
+    "ats": "greenhouse",
+    "token": "verkada",
+    "open_roles": 275
+  },
+  {
+    "name": "Virtu Financial",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "greenhouse",
+    "token": "virtu",
+    "open_roles": 48
+  },
+  {
+    "name": "Visa",
+    "tier": "Large sponsor",
+    "industry": "Fintech",
+    "ats": "workday",
+    "tenant": "visa",
+    "wd": "wd5",
+    "site": "Visa",
+    "open_roles": 740
+  },
+  {
+    "name": "Autodesk",
+    "tier": "Large sponsor",
+    "industry": "Design / CAD Software",
+    "ats": "workday",
+    "tenant": "autodesk",
+    "wd": "wd1",
+    "site": "Ext",
+    "open_roles": 430
+  },
+  {
+    "name": "Intel",
+    "tier": "Top 25 sponsor",
+    "industry": "Semiconductors",
+    "ats": "workday",
+    "tenant": "intel",
+    "wd": "wd1",
+    "site": "External",
+    "open_roles": 603
+  },
+  {
+    "name": "Arctic Wolf",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "workday",
+    "tenant": "arcticwolf",
+    "wd": "wd1",
+    "site": "External",
+    "open_roles": 113
+  },
+  {
+    "name": "Axiom Space",
+    "tier": "Active sponsor",
+    "industry": "Aerospace",
+    "ats": "workday",
+    "tenant": "axiomspace",
+    "wd": "wd5",
+    "site": "External_Career_Site",
+    "open_roles": 76
+  },
+  {
+    "name": "Sprinklr",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": "workday",
+    "tenant": "sprinklr",
+    "wd": "wd1",
+    "site": "Careers",
+    "open_roles": 94
+  },
+  {
+    "name": "Expensify",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "ashby",
+    "token": "expensify",
+    "open_roles": 1
+  },
+  {
+    "name": "Wayfair",
+    "tier": "Active sponsor",
+    "industry": "E-commerce",
+    "ats": "smartrecruiters",
+    "token": "wayfair",
+    "open_roles": 1
+  },
+  {
+    "name": "Waymo",
+    "tier": "Active sponsor",
+    "industry": "Autonomous Vehicles",
+    "ats": "greenhouse",
+    "token": "waymo",
+    "open_roles": 394
+  },
+  {
+    "name": "Wayve",
+    "tier": "Active sponsor",
+    "industry": "Autonomous Vehicles",
+    "ats": "greenhouse",
+    "token": "wayve",
+    "open_roles": 108
+  },
+  {
+    "name": "Wealthfront",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "lever",
+    "token": "wealthfront",
+    "open_roles": 17
+  },
+  {
+    "name": "Weaviate",
+    "tier": "Active sponsor",
+    "industry": "Vector DB",
+    "ats": "ashby",
+    "token": "weaviate",
+    "open_roles": 2
+  },
+  {
+    "name": "Wise",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": "smartrecruiters",
+    "token": "wise",
+    "open_roles": 402
+  },
+  {
+    "name": "Workday",
+    "tier": "Large sponsor",
+    "industry": "SaaS",
+    "ats": "workday",
+    "tenant": "workday",
+    "wd": "wd5",
+    "site": "Workday",
+    "open_roles": 338
+  },
+  {
+    "name": "Zapier",
+    "tier": "Active sponsor",
+    "industry": "Automation",
+    "ats": "ashby",
+    "token": "zapier",
+    "open_roles": 14
+  },
+  {
+    "name": "Zillow",
+    "tier": "Active sponsor",
+    "industry": "Real Estate Tech",
+    "ats": "workday",
+    "tenant": "zillow",
+    "wd": "wd5",
+    "site": "Zillow_Group_External",
+    "open_roles": 109
+  },
+  {
+    "name": "Zoom",
+    "tier": "Large sponsor",
+    "industry": "Communications",
+    "ats": "workday",
+    "tenant": "zoom",
+    "wd": "wd5",
+    "site": "Zoom",
+    "open_roles": 107
+  },
+  {
+    "name": "Zoox",
+    "tier": "Active sponsor",
+    "industry": "Autonomous Vehicles",
+    "ats": "lever",
+    "token": "zoox",
+    "open_roles": 224
+  },
+  {
+    "name": "Zscaler",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": "greenhouse",
+    "token": "zscaler",
+    "open_roles": 300
+  },
+  {
+    "name": "Accenture",
+    "tier": "Top 25 sponsor",
+    "industry": "Consulting",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Addepar",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "ADP",
+    "tier": "Large sponsor",
+    "industry": "HR Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Akamai",
+    "tier": "Large sponsor",
+    "industry": "CDN / Security",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Ally Financial",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Amazon",
+    "tier": "Top 25 sponsor",
+    "industry": "Cloud / E-commerce",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Ambarella",
+    "tier": "Active sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "AMD",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "American Airlines",
+    "tier": "Large sponsor",
+    "industry": "Airlines",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "American Express",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Apple",
+    "tier": "Top 25 sponsor",
+    "industry": "Big Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Applied Intuition",
+    "tier": "Active sponsor",
+    "industry": "Autonomous Vehicles",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Arctic Wolf",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Arm",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "ASML",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "AT&T",
+    "tier": "Large sponsor",
+    "industry": "Telecom",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Atlassian",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Aurora Innovation",
+    "tier": "Active sponsor",
+    "industry": "Autonomous Vehicles",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Axiom Space",
+    "tier": "Active sponsor",
+    "industry": "Aerospace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Balyasny Asset Management",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Bank of America",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Biogen",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Birlasoft",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Bloomberg",
+    "tier": "Large sponsor",
+    "industry": "Finance / Data",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Blue Origin",
+    "tier": "Active sponsor",
+    "industry": "Aerospace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Booking.com",
+    "tier": "Large sponsor",
+    "industry": "Travel Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Box",
+    "tier": "Active sponsor",
+    "industry": "Cloud Storage",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Bridgewater Associates",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Bristol Myers Squibb",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Capgemini",
+    "tier": "Top 25 sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Caterpillar",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Charles Schwab",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Chronosphere",
+    "tier": "Active sponsor",
+    "industry": "Observability",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Cisco",
+    "tier": "Large sponsor",
+    "industry": "Networking",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Citadel",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Citi",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "CME Group",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Coforge",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Cognizant",
+    "tier": "Top 25 sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Costco",
+    "tier": "Large sponsor",
+    "industry": "Retail / Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Cruise",
+    "tier": "Active sponsor",
+    "industry": "Autonomous Vehicles",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Cummins",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Cyient",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "D. E. Shaw",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "dbt Labs",
+    "tier": "Active sponsor",
+    "industry": "Data",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Deel",
+    "tier": "Active sponsor",
+    "industry": "HR Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Dell Technologies",
+    "tier": "Large sponsor",
+    "industry": "Hardware",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Deloitte",
+    "tier": "Top 25 sponsor",
+    "industry": "Consulting",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Delta Air Lines",
+    "tier": "Large sponsor",
+    "industry": "Airlines",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "DigitalOcean",
+    "tier": "Active sponsor",
+    "industry": "Cloud",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Discover Financial",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "DoorDash",
+    "tier": "Active sponsor",
+    "industry": "Marketplace",
+    "ats": "greenhouse",
+    "token": "doordashusa",
+    "open_roles": 472
+  },
+  {
+    "name": "DRW",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Electronic Arts",
+    "tier": "Active sponsor",
+    "industry": "Gaming",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Elevance Health",
+    "tier": "Large sponsor",
+    "industry": "Healthcare",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Eli Lilly",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Emerson Electric",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "EPAM Systems",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Expedia Group",
+    "tier": "Large sponsor",
+    "industry": "Travel Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Expensify",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "EY",
+    "tier": "Top 25 sponsor",
+    "industry": "Consulting",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "FactSet",
+    "tier": "Large sponsor",
+    "industry": "Finance / Data",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "FedEx",
+    "tier": "Large sponsor",
+    "industry": "Logistics",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Fidelity Investments",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Firefly Aerospace",
+    "tier": "Active sponsor",
+    "industry": "Aerospace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Fiserv",
+    "tier": "Large sponsor",
+    "industry": "Fintech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Five Rings",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Ford Motor Company",
+    "tier": "Large sponsor",
+    "industry": "Automotive",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "General Dynamics",
+    "tier": "Large sponsor",
+    "industry": "Aerospace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "General Electric",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "General Motors",
+    "tier": "Large sponsor",
+    "industry": "Automotive",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Genpact",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Globant",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Goldman Sachs",
+    "tier": "Top 25 sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Google",
+    "tier": "Top 25 sponsor",
+    "industry": "Big Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Grammarly",
+    "tier": "Active sponsor",
+    "industry": "AI / Productivity",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Groq",
+    "tier": "Active sponsor",
+    "industry": "AI Hardware",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Guardant Health",
+    "tier": "Active sponsor",
+    "industry": "Biotech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "HashiCorp",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "HCLTech",
+    "tier": "Top 25 sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Headlands Technologies",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Hewlett Packard Enterprise",
+    "tier": "Large sponsor",
+    "industry": "Enterprise Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Hexaware Technologies",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Honeywell",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "HubSpot",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Hudson River Trading",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Hugging Face",
+    "tier": "Active sponsor",
+    "industry": "AI",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Humana",
+    "tier": "Large sponsor",
+    "industry": "Healthcare",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "IBM",
+    "tier": "Top 25 sponsor",
+    "industry": "Enterprise Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Illumina",
+    "tier": "Large sponsor",
+    "industry": "Biotech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Infosys",
+    "tier": "Top 25 sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Intel",
+    "tier": "Top 25 sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Intuit",
+    "tier": "Large sponsor",
+    "industry": "Fintech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Joby Aviation",
+    "tier": "Active sponsor",
+    "industry": "Aviation",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "John Deere",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Johnson & Johnson",
+    "tier": "Large sponsor",
+    "industry": "Healthcare",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "JPMorgan Chase",
+    "tier": "Top 25 sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Juniper Networks",
+    "tier": "Large sponsor",
+    "industry": "Networking",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Kaiser Permanente",
+    "tier": "Large sponsor",
+    "industry": "Healthcare",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Keysight Technologies",
+    "tier": "Large sponsor",
+    "industry": "Test & Measurement",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "KPMG",
+    "tier": "Top 25 sponsor",
+    "industry": "Consulting",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "L3Harris",
+    "tier": "Large sponsor",
+    "industry": "Aerospace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Lam Research",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Lattice Semiconductor",
+    "tier": "Active sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Liberty Mutual",
+    "tier": "Large sponsor",
+    "industry": "Insurance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Lockheed Martin",
+    "tier": "Large sponsor",
+    "industry": "Aerospace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "LTIMindtree",
+    "tier": "Top 25 sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Marriott International",
+    "tier": "Large sponsor",
+    "industry": "Hospitality",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Meta",
+    "tier": "Top 25 sponsor",
+    "industry": "Big Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Microsoft",
+    "tier": "Top 25 sponsor",
+    "industry": "Big Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Millennium",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "MITRE",
+    "tier": "Large sponsor",
+    "industry": "Research",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Moderna",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Moody's",
+    "tier": "Large sponsor",
+    "industry": "Finance / Data",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Morningstar",
+    "tier": "Large sponsor",
+    "industry": "Finance / Data",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Mphasis",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "MSCI",
+    "tier": "Large sponsor",
+    "industry": "Finance / Data",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Nasdaq",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Nationwide",
+    "tier": "Large sponsor",
+    "industry": "Insurance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "NetApp",
+    "tier": "Large sponsor",
+    "industry": "Storage",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Netflix",
+    "tier": "Large sponsor",
+    "industry": "Media",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Niantic",
+    "tier": "Active sponsor",
+    "industry": "Gaming",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Nielsen",
+    "tier": "Large sponsor",
+    "industry": "Data / Analytics",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Nike",
+    "tier": "Large sponsor",
+    "industry": "Retail / Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Nordstrom",
+    "tier": "Large sponsor",
+    "industry": "Retail / Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Nutanix",
+    "tier": "Large sponsor",
+    "industry": "Cloud Infra",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "onsemi",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Optiver",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Oracle",
+    "tier": "Large sponsor",
+    "industry": "Enterprise Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Oscar Health",
+    "tier": "Active sponsor",
+    "industry": "Healthtech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Palo Alto Networks",
+    "tier": "Large sponsor",
+    "industry": "Security",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Peak6",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Persistent Systems",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Progressive",
+    "tier": "Large sponsor",
+    "industry": "Insurance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "PwC",
+    "tier": "Top 25 sponsor",
+    "industry": "Consulting",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Qorvo",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Qualcomm",
+    "tier": "Top 25 sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Quantlab",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Rapid7",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Redfin",
+    "tier": "Active sponsor",
+    "industry": "Real Estate Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Relativity Space",
+    "tier": "Active sponsor",
+    "industry": "Aerospace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Remitly",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Replicate",
+    "tier": "Active sponsor",
+    "industry": "AI Infra",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Retool",
+    "tier": "Active sponsor",
+    "industry": "Dev Tools",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Rippling",
+    "tier": "Active sponsor",
+    "industry": "HR Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Rivian",
+    "tier": "Large sponsor",
+    "industry": "Automotive",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Robinhood Markets",
+    "tier": "Active sponsor",
+    "industry": "Fintech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Rockwell Automation",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "RTX",
+    "tier": "Large sponsor",
+    "industry": "Aerospace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "SAIC",
+    "tier": "Large sponsor",
+    "industry": "Defense IT",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "SAP",
+    "tier": "Large sponsor",
+    "industry": "Enterprise Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Segment",
+    "tier": "Active sponsor",
+    "industry": "Data",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "SentinelOne",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Shopify",
+    "tier": "Active sponsor",
+    "industry": "E-commerce",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Siemens",
+    "tier": "Large sponsor",
+    "industry": "Industrial",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Sierra Space",
+    "tier": "Active sponsor",
+    "industry": "Aerospace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "SiFive",
+    "tier": "Active sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "SIG",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Skyworks Solutions",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Slack",
+    "tier": "Active sponsor",
+    "industry": "Communications",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Slalom",
+    "tier": "Large sponsor",
+    "industry": "Consulting",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Snap",
+    "tier": "Active sponsor",
+    "industry": "Social",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Snyk",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Sonos",
+    "tier": "Active sponsor",
+    "industry": "Consumer Hardware",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Splunk",
+    "tier": "Large sponsor",
+    "industry": "Data / Observability",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Sprinklr",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Starbucks",
+    "tier": "Large sponsor",
+    "industry": "Retail / Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "State Farm",
+    "tier": "Large sponsor",
+    "industry": "Insurance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Synchrony",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Synopsys",
+    "tier": "Large sponsor",
+    "industry": "EDA",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Tech Mahindra",
+    "tier": "Top 25 sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Tempus AI",
+    "tier": "Active sponsor",
+    "industry": "Health AI",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Tenable",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Teradyne",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Tesla",
+    "tier": "Large sponsor",
+    "industry": "Automotive / AI",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Texas Instruments",
+    "tier": "Large sponsor",
+    "industry": "Semiconductors",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Turo",
+    "tier": "Active sponsor",
+    "industry": "Marketplace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Two Sigma",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "U.S. Bank",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "United Airlines",
+    "tier": "Large sponsor",
+    "industry": "Airlines",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "UnitedHealth Group",
+    "tier": "Large sponsor",
+    "industry": "Healthcare",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Unity",
+    "tier": "Active sponsor",
+    "industry": "Gaming",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "UPS",
+    "tier": "Large sponsor",
+    "industry": "Logistics",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "USAA",
+    "tier": "Large sponsor",
+    "industry": "Insurance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "UST",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Verizon",
+    "tier": "Large sponsor",
+    "industry": "Telecom",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Vertex Pharmaceuticals",
+    "tier": "Large sponsor",
+    "industry": "Pharma",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Virtusa",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "VMware",
+    "tier": "Large sponsor",
+    "industry": "Enterprise Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Walmart",
+    "tier": "Top 25 sponsor",
+    "industry": "Retail / Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Warby Parker",
+    "tier": "Active sponsor",
+    "industry": "Retail",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Weights & Biases",
+    "tier": "Active sponsor",
+    "industry": "ML Tooling",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Wells Fargo",
+    "tier": "Large sponsor",
+    "industry": "Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Whatnot",
+    "tier": "Active sponsor",
+    "industry": "Marketplace",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Wipro",
+    "tier": "Top 25 sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Wiz",
+    "tier": "Active sponsor",
+    "industry": "Security",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Wolverine Trading",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": "pinpoint",
+    "token": "wolve",
+    "open_roles": 14
+  },
+  {
+    "name": "XTX Markets",
+    "tier": "Active sponsor",
+    "industry": "Quant Finance",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Yahoo",
+    "tier": "Large sponsor",
+    "industry": "Media / Tech",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Yelp",
+    "tier": "Active sponsor",
+    "industry": "Local / Search",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Zendesk",
+    "tier": "Active sponsor",
+    "industry": "SaaS",
+    "ats": "workday",
+    "open_roles": 123,
+    "tenant": "zendesk",
+    "wd": "wd1",
+    "site": "zendesk"
+  },
+  {
+    "name": "Zensar Technologies",
+    "tier": "Large sponsor",
+    "industry": "IT Services",
+    "ats": null,
+    "token": null,
+    "open_roles": 0
+  },
+  {
+    "name": "Medpace",
+    "tier": "Active sponsor",
+    "industry": "Clinical Research / Pharma",
+    "ats": "jibe",
+    "token": "careers.medpace.com",
+    "open_roles": 0
+  }
+]

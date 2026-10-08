@@ -1,0 +1,20 @@
+# --- Secrets: never commit. Fill these in locally only. ---
+# jobright/fetch_jobright.py  -> SESSION_ID
+# h1b/tsenta_autoapply.user.js -> Groq/Gemini keys, webhook, RESUME
+
+# --- Personal data & generated output ---
+*.json
+!boards.json
+!hidden_companies.json
+*.xlsx
+*.csv
+jobs.html
+h1b/h1b_jobs.html
+jobright/jobright_jobs.html
+jd_cache.json
+
+# --- Python / OS ---
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
